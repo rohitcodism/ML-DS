@@ -1,0 +1,5 @@
+C001 July 150.5
+C002 July 120.3
+C003 July 180.2
+C004 November 200.8
+C005 November 170.6
